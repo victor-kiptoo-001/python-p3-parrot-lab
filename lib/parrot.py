@@ -1,2 +1,5 @@
-def parrot():
-    pass
+def parrot(message):
+    print(message)
+    return message
+
+
